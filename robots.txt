@@ -1,0 +1,1 @@
+Sitemap: https://aspatic.github.io/fastpage_my/sitemap.xml
